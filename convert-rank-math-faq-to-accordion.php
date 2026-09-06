@@ -3,7 +3,7 @@
 * Plugin Name:          Convert Rank Math FAQ to Accordion
 * Plugin URI:           https://inbdigital.com/documentation/convert-rank-math-faq-to-accordion-plugin-docs/
 * Description:          Transforms Rank Math FAQ blocks into an interactive accordion. Easily customize colors, fonts, and styles in RankMath FAQ Blocks..
-* Version:              1.0.8
+* Version:              1.0.9
 * Requires at least:    5.2
 * Requires PHP:         7.4
 * Author:               INB Digital
@@ -20,7 +20,7 @@ if ( !defined( 'ABSPATH' ) ) {
 /**
  * Define the plugin constants
  */
-define( 'INBRMFA_CURRENT_VERSION', '1.0.8' );
+define( 'INBRMFA_CURRENT_VERSION', '1.0.9' );
 define( 'INBRMFA_PLUGIN_DIR', plugin_dir_path(__FILE__) );
 define( 'INBRMFA_PLUGIN_URL', plugin_dir_url(__FILE__) );
 
