@@ -3,7 +3,7 @@ Contributors: utpalendukhatua
 Tags: Accordion, Rank Math, Rank Math FAQ, Rankmath, rankmath faq accordion
 Requires at least: 5.2
 Tested up to: 7.1.1
-Stable tag: 1.0.10
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,7 +46,7 @@ Yes, you can customize colors, font sizes, and border styles through the setting
 
 == Changelog ==
 
-= 1.0.10 [Sep 20, 2026] =
+= 1.1.0 [Sep 20, 2026] =
 * Tested for compatibility with WordPress 7.1.1
 
 = 1.0.9 [Sep 6, 2026] =
